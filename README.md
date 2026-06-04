@@ -2,7 +2,7 @@
   <img src="bannerbi.png" alt="Dashboard Ejecutivo de Ventas">
 </p>
 
-<h1 align="center">📊 Dashboard Ejecutivo de Ventas</h1>
+<h1 align="center"> Dashboard Ejecutivo de Ventas</h1>
 
 <p align="center">
 Power BI • DAX • Power Query • Business Intelligence
