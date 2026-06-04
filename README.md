@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Dashboard Ejecutivo de Ventas">
+  <img src="bannerbi.png" alt="Dashboard Ejecutivo de Ventas">
 </p>
 
 <h1 align="center">📊 Dashboard Ejecutivo de Ventas</h1>
